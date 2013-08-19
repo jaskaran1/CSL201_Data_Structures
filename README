@@ -1,3 +1,13 @@
 Data Structures-CSL201 @IIT Ropar
 
-It contains the programming assignments for the Data Structures course taught to me at IIT Ropar.
+It contains the programming assignments in C++ for the Data Structures course taught at IIT Ropar.
+
+Every folder contains a pdf which states the problem.
+
+Input files named as in0,in1... or input.
+
+Outputfiles named as out1,out2...
+
+All the C++ codes are .cpp files.
+
+Happy coding..:)
