@@ -1,3 +1,3 @@
-Paranthesis Language Interpreter
+Parenthesis Language Interpreter
 =====
-Implementation of an interpreter for a paranthesis based language using Generalized Linked List in C++.
+Implementation of an interpreter for a parenthesis based language using Generalized Linked List in C++.
